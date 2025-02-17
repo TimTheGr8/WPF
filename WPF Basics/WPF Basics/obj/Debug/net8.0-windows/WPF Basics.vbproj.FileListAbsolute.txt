@@ -18,3 +18,24 @@ C:\Users\tjans\source\repos\WPF Basics\WPF Basics\obj\Debug\net8.0-windows\refin
 C:\Users\tjans\source\repos\WPF Basics\WPF Basics\obj\Debug\net8.0-windows\WPF Basics.pdb
 C:\Users\tjans\source\repos\WPF Basics\WPF Basics\obj\Debug\net8.0-windows\WPF Basics.genruntimeconfig.cache
 C:\Users\tjans\source\repos\WPF Basics\WPF Basics\obj\Debug\net8.0-windows\ref\WPF Basics.dll
+C:\Users\tjans\OneDrive\Desktop\WPF Apps\Learning\WPF Basics\WPF Basics\bin\Debug\net8.0-windows\WPF Basics.exe
+C:\Users\tjans\OneDrive\Desktop\WPF Apps\Learning\WPF Basics\WPF Basics\bin\Debug\net8.0-windows\WPF Basics.deps.json
+C:\Users\tjans\OneDrive\Desktop\WPF Apps\Learning\WPF Basics\WPF Basics\bin\Debug\net8.0-windows\WPF Basics.runtimeconfig.json
+C:\Users\tjans\OneDrive\Desktop\WPF Apps\Learning\WPF Basics\WPF Basics\bin\Debug\net8.0-windows\WPF Basics.dll
+C:\Users\tjans\OneDrive\Desktop\WPF Apps\Learning\WPF Basics\WPF Basics\bin\Debug\net8.0-windows\WPF Basics.pdb
+C:\Users\tjans\OneDrive\Desktop\WPF Apps\Learning\WPF Basics\WPF Basics\obj\Debug\net8.0-windows\MainWindow.g.vb
+C:\Users\tjans\OneDrive\Desktop\WPF Apps\Learning\WPF Basics\WPF Basics\obj\Debug\net8.0-windows\Application.g.vb
+C:\Users\tjans\OneDrive\Desktop\WPF Apps\Learning\WPF Basics\WPF Basics\obj\Debug\net8.0-windows\WPF Basics_MarkupCompile.cache
+C:\Users\tjans\OneDrive\Desktop\WPF Apps\Learning\WPF Basics\WPF Basics\obj\Debug\net8.0-windows\WPF Basics_MarkupCompile.lref
+C:\Users\tjans\OneDrive\Desktop\WPF Apps\Learning\WPF Basics\WPF Basics\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\tjans\OneDrive\Desktop\WPF Apps\Learning\WPF Basics\WPF Basics\obj\Debug\net8.0-windows\WPF Basics.g.resources
+C:\Users\tjans\OneDrive\Desktop\WPF Apps\Learning\WPF Basics\WPF Basics\obj\Debug\net8.0-windows\WPF Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjans\OneDrive\Desktop\WPF Apps\Learning\WPF Basics\WPF Basics\obj\Debug\net8.0-windows\WPF Basics.AssemblyInfoInputs.cache
+C:\Users\tjans\OneDrive\Desktop\WPF Apps\Learning\WPF Basics\WPF Basics\obj\Debug\net8.0-windows\WPF Basics.AssemblyInfo.vb
+C:\Users\tjans\OneDrive\Desktop\WPF Apps\Learning\WPF Basics\WPF Basics\obj\Debug\net8.0-windows\WPF Basics.vbproj.CoreCompileInputs.cache
+C:\Users\tjans\OneDrive\Desktop\WPF Apps\Learning\WPF Basics\WPF Basics\obj\Debug\net8.0-windows\WPF Basics.sourcelink.json
+C:\Users\tjans\OneDrive\Desktop\WPF Apps\Learning\WPF Basics\WPF Basics\obj\Debug\net8.0-windows\WPF Basics.dll
+C:\Users\tjans\OneDrive\Desktop\WPF Apps\Learning\WPF Basics\WPF Basics\obj\Debug\net8.0-windows\refint\WPF Basics.dll
+C:\Users\tjans\OneDrive\Desktop\WPF Apps\Learning\WPF Basics\WPF Basics\obj\Debug\net8.0-windows\WPF Basics.pdb
+C:\Users\tjans\OneDrive\Desktop\WPF Apps\Learning\WPF Basics\WPF Basics\obj\Debug\net8.0-windows\WPF Basics.genruntimeconfig.cache
+C:\Users\tjans\OneDrive\Desktop\WPF Apps\Learning\WPF Basics\WPF Basics\obj\Debug\net8.0-windows\ref\WPF Basics.dll

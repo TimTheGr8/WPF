@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tjans\\source\\repos\\WPF Basics\\",
+  "WorkspaceRootPath": "C:\\Users\\tjans\\OneDrive\\Desktop\\WPF Apps\\Learning\\WPF Basics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C0BFF0E-F207-4EC4-A666-5E96CA1FE0B3}|WPF Basics\\WPF Basics.vbproj|c:\\users\\tjans\\source\\repos\\wpf basics\\wpf basics\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{4C0BFF0E-F207-4EC4-A666-5E96CA1FE0B3}|WPF Basics\\WPF Basics.vbproj|c:\\users\\tjans\\onedrive\\desktop\\wpf apps\\learning\\wpf basics\\wpf basics\\mainwindow.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4C0BFF0E-F207-4EC4-A666-5E96CA1FE0B3}|WPF Basics\\WPF Basics.vbproj|solutionrelative:wpf basics\\mainwindow.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0BFF0E-F207-4EC4-A666-5E96CA1FE0B3}|WPF Basics\\WPF Basics.vbproj|c:\\users\\tjans\\onedrive\\desktop\\wpf apps\\learning\\wpf basics\\wpf basics\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{4C0BFF0E-F207-4EC4-A666-5E96CA1FE0B3}|WPF Basics\\WPF Basics.vbproj|solutionrelative:wpf basics\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -19,10 +23,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.vb",
+              "DocumentMoniker": "C:\\Users\\tjans\\OneDrive\\Desktop\\WPF Apps\\Learning\\WPF Basics\\WPF Basics\\MainWindow.xaml.vb",
+              "RelativeDocumentMoniker": "WPF Basics\\MainWindow.xaml.vb",
+              "ToolTip": "C:\\Users\\tjans\\OneDrive\\Desktop\\WPF Apps\\Learning\\WPF Basics\\WPF Basics\\MainWindow.xaml.vb",
+              "RelativeToolTip": "WPF Basics\\MainWindow.xaml.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-17T17:36:16.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\tjans\\source\\repos\\WPF Basics\\WPF Basics\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\tjans\\OneDrive\\Desktop\\WPF Apps\\Learning\\WPF Basics\\WPF Basics\\MainWindow.xaml",
               "RelativeDocumentMoniker": "WPF Basics\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\tjans\\source\\repos\\WPF Basics\\WPF Basics\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\tjans\\OneDrive\\Desktop\\WPF Apps\\Learning\\WPF Basics\\WPF Basics\\MainWindow.xaml",
               "RelativeToolTip": "WPF Basics\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-02-16T03:16:17.002Z",
