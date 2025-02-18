@@ -93,7 +93,7 @@
             <TextBox IsReadOnly="True" Background="#eee" Padding="2" />
             <!-- Finish -->
             <TextBlock  Text="Finish" Margin="0 2 0 0"/>
-            <ComboBox SelectedIndex="0" Padding="2" >
+            <ComboBox SelectionChanged="FinishDropdown_SelectionChanged" x:Name="FinishDropdown" SelectedIndex="0" Padding="2" >
                 <ComboBoxItem>Painted</ComboBoxItem>
                 <ComboBoxItem>Not Painted</ComboBoxItem>
             </ComboBox>
@@ -114,7 +114,7 @@
             <TextBlock Text="Manufacturing Information" FontWeight="Bold" Margin="0 10" />
             <!-- Note -->
             <TextBlock Text="Note" />
-            <TextBox Padding="2" />
+            <TextBox x:Name="NoteText" Padding="2" />
 
         </StackPanel>
     </Border>
